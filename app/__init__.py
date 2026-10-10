@@ -1,0 +1,1 @@
+"""Veridoc certificate generation API."""
